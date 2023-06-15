@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently studying at East China Normal University.
 - 🌱 I'm currently learning JavaScript.
+- 🤲 A [GNU copyright contributor](https://www.fsf.org/free-software-supporter/2023/may#:~:text=Shynur).
 - 🦄 My name *Shynur* pronounces /ˈʃaɪnɜr/.
 
 ### Languages & Tools
