@@ -6,12 +6,12 @@
 
 ### Languages & Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png"></code>
+<code><img height="20" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png"></code>
+<code><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></code>
+<code><img height="20" src="https://common-lisp.net/static/imgs/lisplogo.png"></code>
+<code><img height="20" src="https://www.gnu.org/software/emacs/images/emacs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shynur/shynur/output/github-contribution-grid-snake.svg)
 
