@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shynur/shynur/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shynur/shynur/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars&count_private=true&hide_border=true"  alt="Shynur's GitHub Stats"/>
