@@ -16,9 +16,9 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shynur/shynur/output/github-contribution-grid-snake.svg)
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&hide=stars&count_private=true"  alt="Shynur's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&count_private=true" />
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars&count_private=true"  alt="Shynur's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&count_private=true" />
 </div>
 
 <p align="center">
