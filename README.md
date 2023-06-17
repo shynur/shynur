@@ -7,7 +7,7 @@
 
 ## Languages & Tools
 
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=lightblue)]()
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=lightblue)](##)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)]()
 [![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)](https://common-lisp.net "前往论坛")
 [![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)](https://www.gnu.org/s/emacs "去官网")
