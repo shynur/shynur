@@ -1,11 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shynur</h1>
+<h3 align="center">Sophomore @ East China Normal University</h3>
 
-- 🔭 I'm currently studying at East China Normal University.
-- 🌱 I'm currently learning JavaScript.
+- 🌱 I'm currently learning Bash and Emacs Lisp; plan to study JavaScript next.
 - 🤲 A [GNU copyright contributor](https://www.fsf.org/free-software-supporter/2023/may#:~:text=Shynur).
 - 🦄 My username *Shynur* pronounces /ˈʃaɪnɜr/.
 
-### Languages & Tools
+## Languages & Tools
 
 <code><img height="20" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png"></code>
 <code><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></code>
