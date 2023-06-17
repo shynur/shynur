@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/shynur/shynur/assets/waving-hand-sign.gif" width="28px" alt="👋">, I'm Shynur</h1>
+<h1 align="center">Hi, I'm Shynur <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋"></h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
 - 🌱 I'm currently learning Bash and Emacs Lisp; plan to study JavaScript next.
