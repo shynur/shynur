@@ -3,6 +3,7 @@
 
 - 🌱 I'm currently learning Bash and Emacs Lisp; plan to study JavaScript next.
 - 🤲 A [GNU copyright contributor](https://www.fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
+- <a href="https://www.fsf.org/free-software-supporter/2023/may#:~:text=Shynur" target="_blank" title="自由软件基金会: 月度新闻">GNU copyright contributor</a>
 - 🦄 My username *Shynur* pronounces /ˈʃaɪnɜr/.
 
 ## Languages & Tools
