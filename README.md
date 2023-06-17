@@ -9,8 +9,8 @@
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-<code><img height="20" src="https://common-lisp.net/static/imgs/lisplogo.png">![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge)</code>
-<code><img height="20" src="https://www.gnu.org/software/emacs/images/emacs.png">![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge)</code>
+<img height="16" src="https://common-lisp.net/static/imgs/lisplogo.png">![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=cl)
+![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
