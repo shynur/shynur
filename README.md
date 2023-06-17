@@ -7,12 +7,12 @@
 
 ## Languages & Tools
 
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=lightblue)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)
 ![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=yellow)
 
 ![github contribution grid snake animation](./assets/snake.svg)
 
