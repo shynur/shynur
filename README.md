@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shynur</h1>
+<h1 align="center">Hi <img src="https://github.com/shynur/shynur/assets/waving-hand-sign.gif" width="28px" alt="👋">, I'm Shynur</h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
 - 🌱 I'm currently learning Bash and Emacs Lisp; plan to study JavaScript next.
@@ -7,12 +7,12 @@
 
 ## Languages & Tools
 
-<code><img height="20" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png"></code>
-<code><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png"></code>
-<code><img height="20" src="https://common-lisp.net/static/imgs/lisplogo.png"></code>
-<code><img height="20" src="https://www.gnu.org/software/emacs/images/emacs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+<code><img height="20" src="https://common-lisp.net/static/imgs/lisplogo.png">![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge)</code>
+<code><img height="20" src="https://www.gnu.org/software/emacs/images/emacs.png">![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge)</code>
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
 ![github contribution grid snake animation](./assets/snake.svg)
 
