@@ -7,12 +7,12 @@
 
 ## Languages & Tools
 
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=lightblue)](#######)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](#######)
+[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=lightblue)](#######)
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](#######)
 [![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)](https://common-lisp.net "前往论坛")
 [![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)](https://www.gnu.org/s/emacs "去官网")
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://tiswww.case.edu/php/chet/bash/bashtop.html "去官网")
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](#######)
+[![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=aquamarine)](https://tiswww.case.edu/php/chet/bash/bashtop.html "去官网")
+[![Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](#######)
 
 [![github contribution grid snake animation](./assets/snake.svg)](#######)
 
@@ -23,5 +23,5 @@
 
 <p align="center">
   Page Views<br>
-  <a href="#######"><img src="https://profile-counter.glitch.me/shynur/count.svg"/></a>
+  <a href="#######"><img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue"/></a>
 </p>
