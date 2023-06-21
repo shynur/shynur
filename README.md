@@ -1,4 +1,6 @@
-<h1 align="center">Hi! I'm Shynur. <a href="#######"><img src="./assets/waving-hand-sign.gif" width="28px" alt="👋"></a></h1>
+<h1 align="center">Hi! I'm Shynur. <a href="#######">
+                                     <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
+                                   </a></h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
 - 🌱 Currently I'm learning Bash and Emacs Lisp; plan to study JavaScript next.
@@ -14,14 +16,28 @@
 [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=aquamarine)](https://tiswww.case.edu/php/chet/bash/bashtop.html "去官网")
 [![Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](#######)
 
+## Flair
+
+<a href="#######">
+  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" width="208" height="58" alt="profile for shynur at Emacs Stack Exchange" title="profile for shynur at Emacs Stack Exchange">
+</a>
+
+## Work Visualized
+
 [![github contribution grid snake animation](./assets/snake.svg)](#######)
 
 <div align="center">
-  <a href="#######"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars,issues&count_private=true&hide_border=true"  alt="Shynur's GitHub Stats"/></a>
-  <a href="#######"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&count_private=true&hide_border=true&langs_count=6"/>
-</div></a>
+  <a href="#######">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars,issues&count_private=true&hide_border=true"  alt="Shynur's GitHub Stats"/>
+  </a>
+  <a href="#######">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&count_private=true&hide_border=true&langs_count=6"/>
+  </a>
+</div>
 
 <p align="center">
   Page Views<br>
-  <a href="#######"><img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue"/></a>
+  <a href="#######">
+    <img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue"/>
+  </a>
 </p>
