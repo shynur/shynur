@@ -19,7 +19,11 @@
 ## Flair
 
 <a href="#######">
-  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" width="208" height="58" alt="profile for shynur at Emacs Stack Exchange" title="profile for shynur at Emacs Stack Exchange">
+  <img src="https://stackoverflow.com/users/flair/20212483.png?theme=dark" width="208" height="58" alt="profile for shynur at Stack Overflow" title="Stack Overflow">
+</a>
+
+<a href="#######">
+  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" width="208" height="58" alt="profile for shynur at Emacs Stack Exchange" title="Emacs Stack Exchange">
 </a>
 
 ## Work Visualized
