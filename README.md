@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="#######">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars,issues&count_private=true&hide_border=true"  alt="Shynur's GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars,issues&count_private=true&hide_border=true&exclude_repo=misc"  alt="Shynur's GitHub Stats"/>
   </a>
   <a href="#######">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&count_private=true&hide_border=true&langs_count=6&exclude_repo=misc"/>
