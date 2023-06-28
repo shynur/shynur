@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I'm Shynur. <a href="#######">
+<h1 align="center">Hi! I’m Shynur. <a href="#######">
                                      <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
                                    </a></h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
-- 🌱 Currently I'm learning Bash and Emacs Lisp; plan to study JavaScript next.
+- 🌱 Currently I’m learning Bash and Emacs Lisp; plan to study JavaScript next.
 - 🤲 A [GNU copyright contributor](https://www.fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
 - 🦄 My username *Shynur* pronounces /ˈʃaɪnɜr/.
 
@@ -28,10 +28,10 @@
 
 <div align="center">
   <a href="#######">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars&hide_border=true&exclude_repo=shynur,misc" alt="Shynur's GitHub Stats-1"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shynur&show_icons=true&layout=compact&theme=react&hide=stars&hide_border=true&exclude_repo=shynur,misc&include_all_commits=true&hide_title=true" alt="Shynur’s GitHub Stats-1"/>
   </a>
   <a href="#######">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&hide_border=true&langs_count=6&exclude_repo=shynur,misc" alt="Shynur's GitHub Stats-2"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&hide_border=true&langs_count=6&exclude_repo=shynur,misc&hide_title=true" alt="Shynur’s GitHub Stats-2"/>
   </a>
 </div>
 
