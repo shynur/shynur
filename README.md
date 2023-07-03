@@ -18,8 +18,8 @@
 
 ## Flair
 
-<a href="#######">
-  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange" title="Emacs Stack Exchange">
+<a href="https://emacs.stackexchange.com/users/39388?tab=summary">
+  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange" title="查看我的 Stack Exchange">
 </a>
 
 ## Work Visualized
