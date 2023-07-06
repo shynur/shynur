@@ -35,6 +35,12 @@
   </a>
 </div>
 
+Besides repositories hosted on GitHub, I have also contributed to the following projects:
+- [Emacs on Savannah](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "See my commits")
+- [Org mode on Savannah](https://git.savannah.gnu.org/cgit/emacs/org-mode.git).  See [Org contributors](https://orgmode.org/worg/contributors.html#:~:text=Shynur%20Xie).
+
+___
+
 <p align="center">
   Page Views<br>
   <a href="#######">
