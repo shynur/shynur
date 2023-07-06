@@ -9,12 +9,14 @@
 
 ## Languages & Tools
 
+<!-- https://simpleicons.org -->
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=lightblue)](#######)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://isocpp.org "ISO C++ 官网")
 [![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)](https://common-lisp.net "Common Lisp 论坛")
 [![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)](https://gnu.org/s/emacs "Emacs 官网")
 [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=aquamarine)](https://tiswww.case.edu/php/chet/bash/bashtop.html "Bash 官网")
 [![Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](https://www.gnu.org/gnu/linux-and-gnu.html "Linux 和 GNU 系统")
+[![Org](https://img.shields.io/badge/Org-black?style=for-the-badge&logo=Org)](https://orgmode.org "Org 官网")
 
 ## Flair
 
