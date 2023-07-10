@@ -18,6 +18,11 @@
 [![Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](https://www.gnu.org/gnu/linux-and-gnu.html "Linux 和 GNU 系统")
 [![Org](https://img.shields.io/badge/Org-black?style=for-the-badge&logo=Org)](https://orgmode.org "Org 官网")
 
+<!--
+备选方案:
+  <https://skillicons.dev/icons?i=c,py,java,js,bash,linux,emacs>
+-->
+
 ## Flair
 
 <a href="https://emacs.stackexchange.com/users/39388?tab=summary">
