@@ -1,10 +1,10 @@
-<h1 align="center">Hi! I’m Shynur. <a href="#######">
+<h1 align="center">Hi, I’m Shynur. <a href="#######">
                                      <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
                                    </a></h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
 - 🌱 Currently I’m learning Bash and Emacs Lisp; plan to study JavaScript next.
-- 🤲 A [GNU copyright contributor](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
+- 📝 One of [GNU copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
 - 🦄 My username *Shynur* pronounces /ˈʃaɪnɜr/.
 
 ## Languages & Tools
