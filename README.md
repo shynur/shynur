@@ -31,7 +31,7 @@
 
 ## Work Visualized
 
-[![github contribution grid snake animation](./assets/snake.svg)](#######)
+<!-- [![github contribution grid snake animation](./assets/snake.svg)](#######) -->
 
 <div align="center">
   <a href="#######">
