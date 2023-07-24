@@ -41,11 +41,6 @@
 
 <!-- [![github contribution grid snake animation](./assets/snake.svg)](#######) -->
 
-### Activities
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ### Visualized
 
 <div align="center">
@@ -58,6 +53,8 @@
 </div>
 
 <!--- 图片: https://github-readme-streak-stats.herokuapp.com/?user=shynur&theme=react --->
+
+### External Contributions
 
 Besides repositories hosted on GitHub, I also contribute to the following projects:
 - [Emacs on Savannah](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "See my commits")
