@@ -25,6 +25,10 @@
 
 ## Flair
 
+<!--
+[![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=20212483&showLogo=true&showBorder=false&showIcons=true&showAnimations=true)](#######)
+-->
+
 <a href="https://emacs.stackexchange.com/users/39388?tab=summary">
   <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange" title="查看我的 Stack Exchange">
 </a>
@@ -42,6 +46,8 @@
   </a>
 </div>
 
+<!--- 图片: https://github-readme-streak-stats.herokuapp.com/?user=shynur&theme=react --->
+
 Besides repositories hosted on GitHub, I also contribute to the following projects:
 - [Emacs on Savannah](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "See my commits")
 - [Org mode on Savannah](https://git.savannah.gnu.org/cgit/emacs/org-mode.git).  See [Org contributors](https://orgmode.org/worg/contributors.html#:~:text=Shynur%20Xie).
@@ -54,3 +60,8 @@ ___
     <img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue"/>
   </a>
 </p>
+
+<!-- 随机引用名人名言: https://quotes-github-readme.vercel.app/api -->
+<!-- 随机笑话: <a href="https://readme-jokes.vercel.app">
+                  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+               </a> -->
