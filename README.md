@@ -7,15 +7,19 @@
 - 📝 One of [GNU copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
 - 🦄 My username *Shynur* pronounces /ˈʃaɪnɜr/.
 
-## Languages & Tools
+## Environment
 
 <!-- https://simpleicons.org -->
+
+[![GNU+Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](https://www.gnu.org/gnu/linux-and-gnu.html "Linux 和 GNU 系统")
+[![MS-Windows](https://img.shields.io/badge/MS%20Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)](#######)
+
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=lightblue)](#######)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://isocpp.org "ISO C++ 官网")
-[![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)](https://common-lisp.net "Common Lisp 论坛")
 [![Emacs](https://img.shields.io/badge/Emacs-black?style=for-the-badge&logo=gnu-emacs)](https://gnu.org/s/emacs "Emacs 官网")
 [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=aquamarine)](https://tiswww.case.edu/php/chet/bash/bashtop.html "Bash 官网")
-[![Linux](https://img.shields.io/badge/GNU%2flinux-black?style=for-the-badge&logo=Linux&logoColor=yellow)](https://www.gnu.org/gnu/linux-and-gnu.html "Linux 和 GNU 系统")
+[![Common Lisp](https://img.shields.io/badge/Common%20Lisp-black?style=for-the-badge&logo=Taichi-Lang)](https://common-lisp.net "Common Lisp 论坛")
+
 [![Org](https://img.shields.io/badge/Org-black?style=for-the-badge&logo=Org)](https://orgmode.org "Org 官网")
 
 <!--
@@ -33,9 +37,17 @@
   <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange" title="查看我的 Stack Exchange">
 </a>
 
-## Work Visualized
+## Work
 
 <!-- [![github contribution grid snake animation](./assets/snake.svg)](#######) -->
+
+### Activities
+
+<!-- START_SECTION: activity -->
+
+<!-- END_SECTION: activity -->
+
+### Visualized
 
 <div align="center">
   <a href="#######">
