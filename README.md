@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I’m Shynur. <a href="#######">
-                                     <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
-                                   </a></h1>
+<h1 align="center">Hi, I’m Shynur <a href="#######">
+                                    <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
+                                  </a></h1>
 <h3 align="center">Sophomore @ East China Normal University</h3>
 
 - 🌱 Currently I’m learning Bash and Emacs Lisp; plan to study JavaScript next.
