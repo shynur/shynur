@@ -56,9 +56,14 @@
 
 ### External Contributions
 
-Besides repositories hosted on GitHub, I also contribute to the following projects:
+Besides repositories hosted on GitHub, I also contribute to:
+
 - [Emacs on Savannah](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "See my commits")
-- [Org mode on Savannah](https://git.savannah.gnu.org/cgit/emacs/org-mode.git).  See [Org contributors](https://orgmode.org/worg/contributors.html#:~:text=Shynur%20Xie).
+
+- [Org mode on Savannah](https://git.savannah.gnu.org/cgit/emacs/org-mode.git).
+  See [Org contributors](https://orgmode.org/worg/contributors.html#:~:text=Shynur%20Xie).
+
+- \<<https://gitee.com/shynur/projects>\>, which is a mirror of my repositories on GitHub.
 
 ___
 
