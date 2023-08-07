@@ -63,7 +63,7 @@ Besides repositories hosted on GitHub, I also contribute to:
 - [Org mode on Savannah](https://git.savannah.gnu.org/cgit/emacs/org-mode.git).
   See [Org contributors](https://orgmode.org/worg/contributors.html#:~:text=Shynur%20Xie).
 
-- \<<https://gitee.com/shynur/projects>\>, which is a mirror of my repositories on GitHub.
+- \<<https://gitee.com/shynur/projects>\>, where some of my projects are hosted.
 
 ___
 
