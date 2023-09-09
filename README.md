@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Shynur <a href="#######">
                                     <img src="./assets/waving-hand-sign.gif" width="28px" alt="👋">
                                   </a></h1>
-<h3 align="center">Sophomore @ East China Normal University</h3>
+<h3 align="center">Undergraduate @ East China Normal University</h3>
 
 - 🌱 Currently I’m learning Bash and Emacs Lisp; plan to study JavaScript next.
 - 📝 One of [GNU copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
