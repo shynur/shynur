@@ -34,7 +34,18 @@
 -->
 
 <a href="https://emacs.stackexchange.com/users/39388?tab=summary">
-  <img src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange" title="查看我的 Stack Exchange">
+  <img
+    src="https://emacs.stackexchange.com/users/flair/39388.png?theme=dark" alt="profile for shynur at Emacs Stack Exchange"
+    title="查看我的 Stack Exchange"
+  />
+</a>
+
+<a href="https://segmentfault.com/u/shynur">
+  <img
+    src="https://w.segmentfault.com/card/1030000044056093.svg?theme=black&bg=0a0c10"
+    width="240" height="58"
+    title="查看我的 SegmentFault"
+  />
 </a>
 
 ## Work
@@ -46,11 +57,11 @@
 <div align="center">
   <a href="#######">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=shynur&rank_icon=github&show_icons=true&layout=compact&theme=react&hide=stars&hide_border=true&exclude_repo=shynur,misc,shynur.github.io&hide_title=true"/>
+         src="https://github-readme-stats.vercel.app/api?username=shynur&rank_icon=github&show_icons=true&layout=compact&theme=react&hide=stars&hide_border=true&exclude_repo=shynur,misc,shynur.github.io&hide_title=true" />
   </a>
   <a href="#######">
     <img height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&hide_border=true&langs_count=98&exclude_repo=shynur,misc,shynur.github.io&hide_title=true"/>
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&hide_border=true&langs_count=98&exclude_repo=shynur,misc,shynur.github.io&hide_title=true" />
   </a>
   <!-- https://api.githubtrends.io/user/svg/shynur/langs?time_range=one_year&theme=react -->
 </div>
@@ -73,7 +84,7 @@ ___
 <p align="center">
   Page Views<br>
   <a href="#######">
-    <img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue"/>
+    <img src="https://profile-counter.glitch.me/shynur/count.svg?color=blue" />
   </a>
 </p>
 
