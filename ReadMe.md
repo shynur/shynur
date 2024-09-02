@@ -4,6 +4,7 @@
 - 🌱 Currently I’m learning Bash; plan to study JavaScript next.
 - 📝 One of [GNU copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
 - 🦄 My username *`shynur`* pronounces `/ˈʃaɪnɜr/`.
+- 📃 [Résumé](Documents/resumes/)
 
 ## Environment
 
