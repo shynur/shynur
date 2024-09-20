@@ -40,7 +40,7 @@
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynur&layout=compact&theme=react&hide_border=true&langs_count=98&exclude_repo=shynur,shynur.github.io&hide_title=true" />
 </div>
 
-### Embrace Open source
+### Embrace Open Source
 
 Besides those repositories hosted on GitHub, I also contribute to:
 
