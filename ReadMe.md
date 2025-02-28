@@ -42,9 +42,13 @@
 
 ### Embrace Open Source
 
-Besides those repositories hosted on GitHub, I also contribute to:
+I contributed to:
 
-- [Emacs on Savannah](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit")
+- ROS 2 (cli tool)
+- [GCC](https://gcc.gnu.org/git/?p=gcc.git&a=search&st=author&s=shynur "查看我的 commit")
+- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit")
+- LLVM/Clang (doc)
+- Fedora (doc)
 
 ________________________________________
 
