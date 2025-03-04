@@ -6,7 +6,7 @@
 - 🦄 My username *`shynur`* pronounces `/ˈʃaɪnɜr/`.
 - 📃 [Résumé](Documents/resumes/)
 
-## Environment
+## Toolchains
 
 <!-- 完整图鉴见 <https://simpleicons.org>.  -->
 
@@ -44,11 +44,11 @@
 
 I contributed to:
 
-- ROS 2 (cli tool)
-- [GCC](https://gcc.gnu.org/git/?p=gcc.git&a=search&st=author&s=shynur "查看我的 commit")
-- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit")
-- LLVM/Clang (doc)
-- Fedora (doc)
+- ROS 2 (cli tool): C++
+- [GCC](https://gcc.gnu.org/git/?p=gcc.git&a=search&st=author&s=shynur "查看我的 commit"): C
+- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit"): C, Lisp, doc
+- LLVM/Clang: doc
+- Fedora: doc
 
 ________________________________________
 
