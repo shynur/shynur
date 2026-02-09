@@ -50,6 +50,6 @@ I contributed to:
 
 - ROS 2 (cli tool): C++
 - [GCC](https://github.com/gcc-mirror/gcc/commits/master/?author=shynur "查看我的 commit"): C
-- [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit"): C, Lisp
+- [GNU Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit"): C, Lisp
 
 And the documentation of numerous popular projects.
