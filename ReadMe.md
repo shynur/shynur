@@ -1,7 +1,7 @@
 <h2 align=center>Hi, I’m shynur <img src=ReadMe.assets/waving-hand.gif width=28px alt=👋></h2>
 
 <!-- - 🌱 23 y.o. -->
-- 📝 One of [GNU copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
+- 📝 One of [Free Software Foundation copyright contributors](https://fsf.org/free-software-supporter/2023/may#:~:text=Shynur "自由软件基金会: 月度新闻").
 - 🦄 My username *`shynur`* pronounces `/ˈʃaɪnɜr/`.
 <!-- - 📃 [Résumé](Documents/resumes/) -->
 
