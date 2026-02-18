@@ -25,6 +25,7 @@
 <!-- [![Org Mode](https://img.shields.io/badge/Org%20Mode-black?style=for-the-badge&logo=org)](https://orgmode.org "Org Mode 官网") -->
 <!-- ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) -->
 ![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake)
+![JFrog Conan](https://img.shields.io/badge/JFrog%20Conan-black?style=for-the-badge&logo=conan)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ## Flair
