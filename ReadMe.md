@@ -54,3 +54,7 @@ I contributed to:
 - [GNU Emacs](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shynur "查看我的 commit"): C, Lisp
 
 And the documentation of numerous popular projects.
+
+## Sponsor
+
+- BTC `1N3uoZ4wnFMn6FeUbJTujYV76siTq7xeL3`
