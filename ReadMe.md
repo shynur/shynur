@@ -72,12 +72,12 @@ And the documentation of numerous popular projects.
         <td>
           <ul>
             <li>
-              <a href='https://www.oklink.com/zh-hans/bitcoin/address/bc1qw6ccdxqzycyhut2s8n9w2djqwmnz6t5c863rlq' target='_blank'>
+              <a href='https://www.oklink.com/zh-hans/bitcoin/address/bc1qw6ccdxqzycyhut2s8n9w2djqwmnz6t5c863rlq'>
                 <code>bc1qw6ccdxqzycyhut2s8n9w2djqwmnz6t5c863rlq</code>
               </a>
             </li>
             <li>
-              <a href='https://www.oklink.com/zh-hans/bitcoin/address/bc1pl7gxqnerzzap9y70w82aae4qpf33jm742dgjwh30qk2k7rykclssl3qgtj' target='_blank'>
+              <a href='https://www.oklink.com/zh-hans/bitcoin/address/bc1pl7gxqnerzzap9y70w82aae4qpf33jm742dgjwh30qk2k7rykclssl3qgtj'>
                 <code>bc1pl7gxqnerzzap9y70w82aae4qpf33jm742dgjwh30qk2k7rykclssl3qgtj</code>
               </a>
             </li>
@@ -135,7 +135,7 @@ And the documentation of numerous popular projects.
       <tr>
         <td>LTC (莱特币)</td>
         <td>
-          <a herf='https://www.oklink.com/zh-hans/litecoin/address/ltc1quj496ame0m8ursjle9q8t6r2yevf0n6u7f8t33'>
+          <a href='https://www.oklink.com/zh-hans/litecoin/address/ltc1quj496ame0m8ursjle9q8t6r2yevf0n6u7f8t33'>
             <code>ltc1quj496ame0m8ursjle9q8t6r2yevf0n6u7f8t33</code>
           </a>
         </td>
@@ -149,4 +149,3 @@ And the documentation of numerous popular projects.
     </tbody>
   </table>
 </details>
-
