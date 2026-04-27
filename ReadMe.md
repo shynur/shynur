@@ -95,7 +95,7 @@ And the documentation of numerous popular projects.
           </ul>
         </td>
         <td>
-          <a href='https://www.oklink.com/zh-hans/ethereum/address/0xd7d65242daf7ae9d2d3aceaaeb04a8122cc7e3c6'>
+          <a href='https://etherscan.io/address/0xd7d65242daF7Ae9d2d3aceAaeB04a8122Cc7E3C6'>
             <code>0xd7d65242daF7Ae9d2d3aceAaeB04a8122Cc7E3C6</code>
           </a>
         </td>
