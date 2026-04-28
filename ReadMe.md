@@ -92,6 +92,7 @@ And the documentation of numerous popular projects.
             <li>BNB (币安链)</li>
             <li>BASE (Coinbase)</li>
             <li>OKT (OKX 链)</li>
+            <li>POL (Polygon)</li>
           </ul>
         </td>
         <td>
