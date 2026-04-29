@@ -94,6 +94,7 @@ And the documentation of numerous popular projects.
             <li>OKT (OKX 链)</li>
             <li>POL (Polygon)</li>
             <li>CFX (Conflux eSpace)</li>
+            <li>AVAX (Avalanche)</li>
           </ul>
         </td>
         <td>
