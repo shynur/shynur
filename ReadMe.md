@@ -146,7 +146,9 @@ And the documentation of numerous popular projects.
       <tr>
         <td>XRP (瑞波币)</td>
         <td>
-          <code>r46eB8c6tMZLdxqtDXxJ67widtEsuRp4Uq</code>
+          <a href='https://coinstats.app/address/r46eB8c6tMZLdxqtDXxJ67widtEsuRp4Uq'>
+            <code>r46eB8c6tMZLdxqtDXxJ67widtEsuRp4Uq</code>
+          </a>
         </td>
       </tr>
       <tr>
