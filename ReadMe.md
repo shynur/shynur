@@ -180,6 +180,14 @@ And the documentation of numerous popular projects.
           </a>
         </td>
       </tr>
+      <tr>
+        <td>ATOM (Cosmos)</td>
+        <td>
+          <a href='https://www.oklink.com/zh-hans/cosmos/address/cosmos1md8ze5h07u76rqjgsvq2h8s5wr34panj46es57'>
+            <code>cosmos1md8ze5h07u76rqjgsvq2h8s5wr34panj46es57</code>
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
