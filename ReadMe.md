@@ -172,6 +172,14 @@ And the documentation of numerous popular projects.
           </a>
         </td>
       </tr>
+      <tr>
+        <td>DOT (Polkadot AssetHub)</td>
+        <td>
+          <a href='https://assethub-polkadot.subscan.io/account/13qDNoFVcpC2Bh7W3rYw7QpqVurfAukvaTCF8b3qfawmZWd6'>
+            <code>13qDNoFVcpC2Bh7W3rYw7QpqVurfAukvaTCF8b3qfawmZWd6</code>
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
