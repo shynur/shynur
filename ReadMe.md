@@ -164,6 +164,14 @@ And the documentation of numerous popular projects.
           </a>
         </td>
       </tr>
+      <tr>
+        <td>ADA (Cardano)</td>
+        <td>
+          <a href='https://cexplorer.io/address/addr1q894z276q79cu07yf8l0ayfevgm6gpde5qjdu9xmm5mthngr5kunc6lvx5qru5mnx3t27rpyl4ev3ds5de8ssmt99tdstm9dz2'>
+            <code>addr1q894z276q79cu07yf8l0ayfevgm6gpde5qjdu9xmm5mthngr5kunc6lvx5qru5mnx3t27rpyl4ev3ds5de8ssmt99tdstm9dz2</code>
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
