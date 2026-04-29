@@ -93,6 +93,7 @@ And the documentation of numerous popular projects.
             <li>BASE (Coinbase)</li>
             <li>OKT (OKX 链)</li>
             <li>POL (Polygon)</li>
+            <li>CFX (Conflux eSpace)</li>
           </ul>
         </td>
         <td>
@@ -152,6 +153,14 @@ And the documentation of numerous popular projects.
         <td>
           <a href='https://tonviewer.com/EQC2AW45crIVqVU5n1kE7Bw6YTA7Z5Qzstk8Ck4Cd5TQE795'>
             <code>UQC2AW45crIVqVU5n1kE7Bw6YTA7Z5Qzstk8Ck4Cd5TQE-K8</code>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>CFX (Conflux)</td>
+        <td>
+          <a href='https://www.confluxscan.net/address/cfx:aakd6395j6s4ghrwx6yvwxmcuudrwxpk8axa43pe63'>
+            <code>cfx:aakd6395j6s4ghrwx6yvwxmcuudrwxpk8axa43pe63</code>
           </a>
         </td>
       </tr>
