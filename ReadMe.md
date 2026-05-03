@@ -191,6 +191,14 @@ And the documentation of numerous popular projects.
           </a>
         </td>
       </tr>
+      <tr>
+        <td>APT (Aptos)</td>
+        <td>
+          <a href='https://aptoscan.com/account/0x645d2cffbaa544b06a6cc995f5c15f911f855e8be61f3d724593510c10263211'>
+            <code>0x645d2cffbaa544b06a6cc995f5c15f911f855e8be61f3d724593510c10263211</code>
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </details>
